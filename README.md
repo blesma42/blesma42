@@ -1,7 +1,7 @@
 ## Hello and Welcome
 
 I'm Mathis, a biologist with some data analysis and programming skills from Germany.
-I'm happy to lern new stuff or improve my current skills, either by some online course or a private project.
+I'm happy to learn new stuff or improve my current skills, either by some online course or a private project.
 
 ## Analysis Tools 
 
