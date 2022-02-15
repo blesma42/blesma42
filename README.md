@@ -1,7 +1,8 @@
 ## Hello and welcome
 
-I'm Mathis, a biologist with some data analysis and programming skills from Germany.
+I'm Mathis, a molecular biologist with some data analysis and programming skills from Germany.
 I'm happy to lern new stuff or improve my current skills, either by some online course or a private project.
+[Here](FeederWatch) you can find my current project.
 
 ## Analysis Tools 
 
@@ -10,7 +11,7 @@ I'm happy to lern new stuff or improve my current skills, either by some online 
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
+<br>
 
 ## Wet Lab Skills
 
@@ -18,6 +19,8 @@ I'm happy to lern new stuff or improve my current skills, either by some online 
 - Flow Cytometry
 - Western Blot
 - Cloning
+
+<br>
 
 ## Some Certificates
 
